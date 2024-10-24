@@ -29,6 +29,9 @@ W projekcie wykorzystano następujące technologie:
    ```bash
    git clone https://github.com/Jaros711/Projects_CS50.git
 
+
+## In English:
+
 ## Description
 
 This repository **Projects_CS50** contains programs and projects created during the **CS50: Introduction to Computer Science** course offered by Harvard University. This course introduces basic concepts of computer science and programming, teaching students how to think like programmers and build their own applications.
