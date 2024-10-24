@@ -35,6 +35,12 @@ Uruchamianie projektów: Z każdą aplikacją dostarczone są instrukcje urucham
 
 Rozwój i modyfikacje: Możesz dowolnie modyfikować projekty, dodając nowe funkcjonalności lub optymalizując istniejące rozwiązania.
 
+Licencja
+
+Repozytorium jest udostępniane na zasadach otwartej licencji. Możesz korzystać z kodu w swoich projektach, jednak pamiętaj o wskazaniu źródła.
+Wkład
+
+Jeśli chcesz wnieść wkład do tego repozytorium, skontaktuj się ze mną lub stwórz Pull Request, aby podzielić się swoimi pomysłami!
 #Description
 
 This repository Projects_CS50 contains programs and projects created during the CS50: Introduction to Computer Science course offered by Harvard University. This course introduces basic concepts of computer science and programming, teaching students how to think like programmers and build their own applications.
