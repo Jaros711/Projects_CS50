@@ -1,0 +1,5 @@
+When a program ends, a special exit code is provided to the computer.
+When a program exits without error, a status code of 0 is provided the computer. Often, when an error occurs that results in the program ending, a status of 1 is provided by the computer.
+You could write a program as follows that illustrates this by typing code es.c
+Notice that if you fail to provide ./status David, you will get an exit status of 1. However, if you do provide ./status David, you will get an exit status of 0.
+You can imagine how you might use portions of the above program to check if a user provided the correct number of command-line arguments.

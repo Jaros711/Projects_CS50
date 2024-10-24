@@ -1,0 +1,3 @@
+Take arguments before the program even runs
+Notice that this program knows both argc, the number of command line arguments, and argv which is an array of the characters passed as arguments at the command line.
+Therefore, using the syntax of this program, executing ./cla David would result in the program saying hello, David.
