@@ -1,6 +1,6 @@
 # Projects_CS50
 
-[For English](#Description)
+[For English](#description)
 
 ## Opis
 
@@ -26,14 +26,14 @@ W projekcie wykorzystano następujące technologie:
 
 ## Jak korzystać
 
- **Klonowanie repozytorium**:
+1. **Klonowanie repozytorium**:
    Aby sklonować repozytorium na swój lokalny komputer, użyj polecenia:
    ```bash
    git clone https://github.com/Jaros711/Projects_CS50.git
 
-Uruchamianie projektów: Z każdą aplikacją dostarczone są instrukcje uruchamiania. W przypadku aplikacji webowych zazwyczaj wymagana jest instalacja bibliotek i uruchomienie serwera lokalnego.
+    Uruchamianie projektów: Z każdą aplikacją dostarczone są instrukcje uruchamiania. W przypadku aplikacji webowych zazwyczaj wymagana jest instalacja bibliotek i uruchomienie serwera lokalnego.
 
-Rozwój i modyfikacje: Możesz dowolnie modyfikować projekty, dodając nowe funkcjonalności lub optymalizując istniejące rozwiązania.
+    Rozwój i modyfikacje: Możesz dowolnie modyfikować projekty, dodając nowe funkcjonalności lub optymalizując istniejące rozwiązania.
 
 Licencja
 
@@ -41,7 +41,7 @@ Repozytorium jest udostępniane na zasadach otwartej licencji. Możesz korzysta�
 Wkład
 
 Jeśli chcesz wnieść wkład do tego repozytorium, skontaktuj się ze mną lub stwórz Pull Request, aby podzielić się swoimi pomysłami!
-#Description
+Description
 
 This repository Projects_CS50 contains programs and projects created during the CS50: Introduction to Computer Science course offered by Harvard University. This course introduces basic concepts of computer science and programming, teaching students how to think like programmers and build their own applications.
 Content
@@ -79,4 +79,4 @@ License
 This repository is shared under an open license. You can use the code in your projects, but please remember to credit the source.
 Contribution
 
-If you wish to contribute to this repository, feel free to contact me or create a Pull Request to share your idea
+If you wish to contribute to this repository, feel free to contact me or create a Pull Request to share your ideas!
